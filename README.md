@@ -70,7 +70,8 @@ int main() {
 
 ## OUTPUT:
 
-<img width="1450" height="1045" alt="image" src="https://github.com/user-attachments/assets/e63fd872-e3fa-465e-8437-0fedacb5d23f" />
+<img width="831" height="314" alt="image" src="https://github.com/user-attachments/assets/c9f09606-4050-42ad-b0ec-563fcc135eb6" />
+
 
 ## RESULT:
 The program is executed successfully.
